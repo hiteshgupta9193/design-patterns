@@ -6,6 +6,8 @@ Following this definition, Facade is a structural design pattern which is used t
 
 In Simple words, The facade pattern allows you to hide all the messy logic from the client and only display the clear and easy-to-use interface to them. This allows them to interact with an API easily in a less error-prone way and without accessing the inner workings directly.
 
+![Alt text](image.png)
+
 ## When to use the facade pattern
 
 - When you want to provide a simple interface to a complex subsystem
